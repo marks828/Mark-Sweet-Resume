@@ -58,6 +58,6 @@ answer any questions about front-end technologies being taught in class
 ## CONTACT:
 * marks828@gmail.com
 * 301-919-8025
-* [Portfolio] (marksweet.herokuapp.com)
+* marksweet.herokuapp.com - automatic!
 * LinkedIn.com/in/mark-s-sweet
 * Github.com/marks828
