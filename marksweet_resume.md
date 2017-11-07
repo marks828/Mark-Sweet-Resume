@@ -1,4 +1,11 @@
 # Mark Sweet
 ## Web Developer/Designer
 
-##list
+## Development Skills
+* Python
+* JavaScript
+* Ruby
+* HTML/CSS
+* Selenium
+* React
+* Angular
