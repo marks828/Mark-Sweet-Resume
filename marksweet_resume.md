@@ -21,7 +21,7 @@
 #### Capgemini - Chicago, IL
 * Used the Gosu programming language to build custom so ware in Guidewire
 * Integrated client's old systems and information into Guidewire
-* Trained in consulting techniques including interviewing and creating propo
+* Trained in consulting techniques including interviewing and creating proposals
 
 ### UX/Web Designer - Dec 2016 - Present
 #### Fourth Presbyterian Church - Potomac, MD
@@ -49,3 +49,15 @@ answer any questions about front-end technologies being taught in class
 #### Mark Sweet Photography - Rockville, MD
 ### Personal Assistant - Sep - Dec 2015
 #### Major Productions LLC
+
+## EDUCATION
+#### Visual Design - General Assembly - Nov 2017
+#### User Experience Design - General Aseebmly - June 2017
+#### BS - Family Science - University of Maryland - 2012
+
+## CONTACT:
+marks828@gmail.com
+301-919-8025
+marksweet.herokuapp.com - automatic !
+LinkedIn.com/in/mark-s-sweet
+Github.com/marks828
