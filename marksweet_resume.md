@@ -60,4 +60,4 @@ answer any questions about front-end technologies being taught in class
 * 301-919-8025
 * [Portfolio](https://marksweet.herokuapp.com/)
 * [LinkedIn](https://LinkedIn.com/in/mark-s-sweet)
-* [GitHub](Github.com/marks828)
+* [GitHub](https://Github.com/marks828)
